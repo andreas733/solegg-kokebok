@@ -17,10 +17,12 @@
 - **Nedkjøling:** 1 km rolig
 - **Total:** ~6 km
 
-## Økt 3 — Rolig løpetur
-- **Distanse:** 6 km
-- **Intensitet:** Lett (~6:30/km)
-- **Fokus:** Bygge volum, holde deg frisk
+## Økt 3 — Intervaller (1 min drag)
+- **Oppvarming:** 1 km rolig (~6:30/km)
+- **Hoveddel:** 8 × 1 min drag med 90 sek rolig jogg mellom
+- **Innsats på drag:** Høy — god fart, kontrollert pust
+- **Nedkjøling:** 1 km rolig
+- **Total:** ~6 km
 
 ## Økt 4 *(valgfri)* — Langtur
 - **Distanse:** 8 km
