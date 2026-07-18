@@ -26,3 +26,25 @@
 **Tid:** 24:00
 **Snittfart:** 5:58/km
 **Kommentar:** Første økt! l'Alfàs del Pi, Spania. 10 prestasjoner. Litt kortere enn planen (5 km) men fint tempo.
+
+---
+
+**Dato:** 2026-07-16
+**Type:** Intervaller (6 × 800m)
+**Distanse:** 6,37 km
+**Tid:** 43:34
+**Snittfart:** 6:50/km
+**Puls:** 141 snitt
+**Kalorier:** 572 kcal
+**Kommentar:** l'Alfàs del Pi, Spania. Solid intervalløkt.
+
+---
+
+**Dato:** 2026-07-18
+**Type:** Intervaller (8 × 1 min drag)
+**Distanse:** 3,98 km
+**Tid:** 28:39
+**Snittfart:** 7:11/km
+**Puls:** 128 snitt / 149 maks
+**Kalorier:** 422 kcal
+**Kommentar:** Rolig tur med dattera. Tok det med ro — hyggelig fellestreningsøkt. 🏃‍♀️

@@ -34,7 +34,7 @@
 ## Avhuking
 - [x] Økt 1 ✅ 2026-07-13 — 4,02 km @ 5:58/km
 - [x] Økt 2 ✅ 2026-07-16 — 6 × 800m @ L'Alfàs del Pi | 6,37 km | 43:34 | snittpuls 141 | snittfart 6:50/km | 572 kcal
-- [ ] Økt 3
+- [x] Økt 3 ✅ 2026-07-18 — 3,98 km @ 7:11/km med dattera | 28:39 | snittpuls 128 | 422 kcal
 - [ ] Økt 4 *(valgfri)*
 
 ---
