@@ -21,7 +21,7 @@ dato_drukket: 2026-07-29
 
 ![[enrique-mendoza-oraval.jpeg]]
 
-> **Andreas sin vurdering:** Denne syns jeg var god. Passet perfekt med estragon.
+> **Andreas sin vurdering:** Denne syns jeg var god.
 
 ---
 
@@ -60,7 +60,6 @@ dato_drukket: 2026-07-29
 - Vilt — hjort, rådyr
 - Kraftige kjøttretter og gryteretter
 - Modne oster — manchego, pecorino
-- **Passer med estragon** ✓
 
 ---
 
