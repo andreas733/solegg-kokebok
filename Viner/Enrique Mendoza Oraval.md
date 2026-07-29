@@ -32,7 +32,7 @@ dato_drukket: 2026-07-29
 - **DO:** Alicante
 - **Druemix:** Monastrell (dominerende) · Syrah · Merlot
 - **Fatmodning:** Franske og amerikanske eikefat
-- **Pris:** ca. 250–350 NOK
+- **Pris:** 10 € (kjøpt direkte på bodegaen i Albir) 🤩
 
 ---
 
