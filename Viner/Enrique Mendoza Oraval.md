@@ -56,10 +56,23 @@ dato_drukket: 2026-07-29
 
 ## Matparing
 
-- Lam (grillet/stekt)
-- Vilt — hjort, rådyr
-- Kraftige kjøttretter og gryteretter
-- Modne oster — manchego, pecorino
+**Kjøtt**
+- Lammelår / lammekotelett — klassisk match med Monastrell fra Alicante
+- Oksekinn eller entrecôte — tanniner og fett balanserer hverandre
+- Viltkjøtt (hjort, elg) — Syrah-innslaget er perfekt mot vilt
+- Grillet chorizo og spansk charcuterie
+
+**Gryteretter**
+- Langtidsbraisert oksegryte — trekker frem vinens mykhet
+- Cocido (spansk kjøttgryte) — regionalt klassisk valg
+
+**Ost**
+- Modnet manchego — spansk klassiker
+- Pecorino og andre harde, modne oster
+
+**Annet**
+- Steinsopp med urter — fremhever vinens jordaktige karakter
+- Tapas med ibérico-skinke
 
 ---
 
