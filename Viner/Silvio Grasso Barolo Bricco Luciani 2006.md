@@ -20,7 +20,7 @@ dato_drukket: 2026-10-03
 
 ![[Silvio Grasso Barolo Bricco Luciani 2006.jpeg]]
 
-> **Andreas sin vurdering:** En vin vi ventet lenge på — kjøpte den på tur i Piemonte i 2019. Verdt hvert år.
+> **Andreas sin vurdering:** En vin vi ventet lenge på — kjøpte den på tur i Piemonte i 2019. Verdt hvert år. Rose, tjære og lær — og full **comboyfest på dag to**. Kruttlapp fra Vennesla. ⭐⭐⭐⭐⭐
 
 ---
 
