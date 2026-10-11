@@ -28,7 +28,7 @@ motor: Mercury 115 hk firetakt EFI
 ## Vinterlagring
 
 - Motor lagres **loddrett** – kjølevann drenerer selv. Ingen frostvæske, ingen tørrkjøring.
-- **Drivstoff:** Tank fylt + stabilisator *(bekreft at stabilisator ble tilsatt)*.
+- **Drivstoff:** Tank fylt. Stabilisator ikke tilsatt.
 
 ## Gjenstår – til våren (vårklargjøring)
 
