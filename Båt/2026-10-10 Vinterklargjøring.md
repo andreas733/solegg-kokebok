@@ -30,6 +30,8 @@ motor: Mercury 115 hk firetakt EFI
 - Motor lagres **loddrett** – kjølevann drenerer selv. Ingen frostvæske, ingen tørrkjøring.
 - **Drivstoff:** Tank fylt. Stabilisator ikke tilsatt.
 
+**Deler til våren lagret i:** Skapet på kammerset.
+
 ## Gjenstår – til våren (vårklargjøring)
 
 - [ ] **Vannpumpe/impeller** – bytt hele settet. Gul tetning Quicksilver 26-8M0188221 hører til vannpumpen (rundt drivakselen). Impellersett: **8M0113799** (passer serienr 1B366823 og oppover).
